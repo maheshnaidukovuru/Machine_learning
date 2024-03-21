@@ -1,9 +1,3 @@
-"""
-Created on Tue Jan 24 09:37:46 2023
-
-@author: GEOMOL GEORGE
-Iris Flower Classification using Python
-"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
